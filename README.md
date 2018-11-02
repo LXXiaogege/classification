@@ -6,3 +6,4 @@ jieba+tf-idf+svm
 3：使用svm出训练模型
 4：对要预测的文本进行预处理
 5：用svm进行预测
+6.接口基于Flask
